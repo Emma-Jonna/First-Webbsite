@@ -33,10 +33,10 @@ img {
 .title {
   background-image: linear-gradient(
     to right,
-    #ff0000,
-    #d2f700,
+    #ff6767,
+    #edf9aa,
     #d9ff00,
-    #00ffdd
+    #85ffef
   );
   background-clip: text;
   color: transparent;
